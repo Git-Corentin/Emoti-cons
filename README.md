@@ -1,7 +1,7 @@
 # 
 Authors : 
 
-## Abstarct
+## Abstract
 
 This work explores how textual and embedding-based representations capture the emotional semantics of emojis. 
 The main goal here is to assess the coherence between human-annotated emotion scores and computational emotion representations that are derived from emoji textual definitions and social media usage data.
