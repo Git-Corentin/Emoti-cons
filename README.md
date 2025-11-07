@@ -1,5 +1,5 @@
 # 
-Authors : 
+Authors : Pacôme Giraudeau, Corentin Nicodème, Sun Zhenfei
 
 ## Abstract
 
